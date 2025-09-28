@@ -46,5 +46,6 @@ npm run dev
 * Orders, shipments, and alerts are not included in this version.
 
 ## Screenshot
-![alt text](image.png)
+![Inventory Management Screenshot](image.png)
+
 
